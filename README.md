@@ -1,8 +1,10 @@
 # RecursividadvsIteracion
 
--Ana María García Acosta código:20171020153
+-Ana María García Acosta      código:20171020153
 
--Zoraya Nazarit Gonzalez   código:20152020213
+-Zoraya Nazarit Gonzalez      código:20152020213
+
+-Rafael Ricardo Uribe Perdomo código:20162020112
 
 Lenguaje de programación utilizado Java
 
